@@ -17,18 +17,22 @@ Este é um sistema de cadastro e notificação de eventos, desenvolvido em Java 
 
 ## 🗂️ Estrutura de Pastas
 
-/EventoApp
+EventoApp
 ├── src
+
 │ ├── Main.java
+
 │ ├── models
+
 │ │ ├── Usuario.java
 │ │ └── Evento.java
+
 │ └── services
+
 │ └── GerenciadorDeEventos.java
+
 └── events.data (arquivo salvo automaticamente)
 
-bash
-Copiar código
 
 ## 🚀 Como Executar
 
