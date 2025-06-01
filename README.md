@@ -17,4 +17,41 @@ Este é um sistema de cadastro e notificação de eventos, desenvolvido em Java 
 
 ## 🗂️ Estrutura de Pastas
 
+/EventoApp
+├── src
+│ ├── Main.java
+│ ├── models
+│ │ ├── Usuario.java
+│ │ └── Evento.java
+│ └── services
+│ └── GerenciadorDeEventos.java
+└── events.data (arquivo salvo automaticamente)
 
+bash
+Copiar código
+
+## 🚀 Como Executar
+
+1. Clone este repositório:
+
+```bash
+git clone https://github.com/seu-usuario/SistemaDeEventos.git
+Abra o projeto na sua IDE (Eclipse, IntelliJ IDEA, NetBeans ou Replit).
+
+Execute o arquivo Main.java.
+
+O programa será executado no console, onde você pode interagir com o menu para cadastrar usuários, eventos e gerenciar participações.
+
+💾 Salvamento dos Dados
+Os eventos são salvos no arquivo events.data.
+
+Ao abrir novamente o programa, os eventos cadastrados serão carregados automaticamente.
+
+📜 Diagrama de Classes
+
+👨‍💻 Desenvolvido por
+Seu Nome
+
+Curso: (Informe seu curso)
+
+Disciplina: (Informe a disciplina)
